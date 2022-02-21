@@ -1,3 +1,3 @@
-# KipaDIContainer
+# KipaArch
 
-A description of this package.
+Tool for implementing some architecture components.
